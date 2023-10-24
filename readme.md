@@ -50,6 +50,7 @@ instructions to populate Voilib with content. You can also check
 [first run tasks section](./infra/readme.md#first-run-tasks).
 
 ![Management](./docs/management.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fntkog%2Fvoilib.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fntkog%2Fvoilib?ref=badge_shield)
 
 More information about deployments in
 [infra/readme](./infra/readme.md).
@@ -92,3 +93,6 @@ available complete source code of licensed works and modifications,
 which include larger works using a licensed work, under the same
 license. Copyright and license notices must be preserved. Contributors
 provide an express grant of patent rights.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fntkog%2Fvoilib.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fntkog%2Fvoilib?ref=badge_large)
